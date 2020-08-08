@@ -7,5 +7,7 @@ Utilizaremos este repositorio para agregar todos los programas que haremos en el
 - Perfil de Platzi: platzi.com/@angest1000/
 
 
-####NeverStopLearn
-####AunNoEresQuienVasALlegarASer
+'#NeverStopLearn'
+
+
+'#AunNoEresQuienVasALlegarASer'
